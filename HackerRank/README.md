@@ -1,1 +1,0 @@
-HackerRank Preparation Solution
